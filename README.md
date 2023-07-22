@@ -1,12 +1,8 @@
 [![MasterHead](https://giffiles.alphacoders.com/212/212816.gif)](https://github.com/ankux)
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="250"  src="https://www.icegif.com/wp-content/uploads/icegif-1222.gif">
+<img align="right" alt="Coding" width="200"  src="https://www.icegif.com/wp-content/uploads/icegif-1222.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankux&label=Profile%20views&color=0e75b6&style=flat" alt="ankux" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ankooooosh" target="blank"><img src="https://img.shields.io/twitter/follow/ankooooosh?logo=twitter&style=for-the-badge" alt="ankooooosh" /></a> </p>
 
 - 🌱 I’m currently learning **C++, React**
 
