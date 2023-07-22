@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/212/212816.gif)](https://github.com/ankux)
+![LOGO](https://giffiles.alphacoders.com/212/212816.gif)
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="200"  src="https://www.icegif.com/wp-content/uploads/icegif-1222.gif">
