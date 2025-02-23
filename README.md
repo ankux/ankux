@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="GitHub GIF">
+</p>
+
 # 💫 About Me:
 🎓 Pre-final year student pursuing B. Tech CSE<br>💖 Loves to read book, play video games and cycle.<br>✈️ Like to travel and see new places.
 
