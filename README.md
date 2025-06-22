@@ -3,7 +3,7 @@
 
 ## Projects: 
 1. Prodstore - fullstack CRUD app using PostgreSQL(Neon) [[Link]](https://github.com/ankux/Product-Store)
-2. AI Notes App - fullstack PDF Notes taking app [[Link]](https://github.com/ankux/AI-Notes-App) 
+2. AI Notes App - fullstack PDF Notes taking app using LangChain [[Link]](https://github.com/ankux/AI-Notes-App) 
 2. Books Management System - REST API using Golang [[Link]](https://github.com/ankux/books-management-go)
 3. WellBeing - a wellness platform [[Link]](https://github.com/ankux/WellBeing)
 
